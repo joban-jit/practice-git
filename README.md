@@ -8,3 +8,5 @@ As stated above, the main purpose is to provide simple examples for git training
 This is a simple example project, no need for deployment.
 ## How to Contribute
 
+### Copyright
+2023 Git.practice.
