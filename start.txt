@@ -1,5 +1,5 @@
 Test Git Quick Start demo
-Another text line
-third text line
-Added @copyright!
+Another txt line
+yet another text line
+Added ##copyright!
 
