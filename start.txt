@@ -2,4 +2,4 @@ Test Git Quick Start Demo.
 Another text line
 now valid text line
 Added @copyright#!
-Thanks to all so much.
+Thanks to all very much.
