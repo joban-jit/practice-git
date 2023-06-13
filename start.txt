@@ -1,6 +1,6 @@
-Test Git Quick Start demo
+Test Git Quick Start demo.
 Another text line
-invalid txt line
+now valid txt line
 Added @copyright#!
 Thanks to all
-Adding changes before rebasing conflicts
+Some silly changes from master branch.
