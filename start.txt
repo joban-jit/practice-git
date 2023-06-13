@@ -1,6 +1,5 @@
-Test Git Quick Start Demo
+Test Git Quick Start Demo.
 Another text line
-now valid txt line
+now valid text line
 Added @copyright#!
 Thanks to all
-these changes are from the feature branch bigtrouble
