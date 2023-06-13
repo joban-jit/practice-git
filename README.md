@@ -9,4 +9,4 @@ This is a simple example project, no need for deployment.
 ## How to Contribute
 Please fork this repository and then issue pull request for review
 ### Copyright
-2023 Git.practice.
+2023 Git.practice. All rights reserved.
