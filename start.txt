@@ -3,3 +3,4 @@ Another text line
 invalid txt line
 Added @copyright#!
 Thanks to all
+Adding changes before rebasing conflicts
