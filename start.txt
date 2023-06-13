@@ -2,4 +2,4 @@ Test Git Quick Start demo
 Another text line
 invalid txt line
 Added @copyright#!
-
+Thanks to all
