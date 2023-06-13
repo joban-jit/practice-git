@@ -1,5 +1,5 @@
 Test Git Quick Start Demo.
 Another text line
-now valid text line
-Added @copyright#!
+again invalid text line
+Added @copyright
 Thanks to all very much.
