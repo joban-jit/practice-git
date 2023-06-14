@@ -1,5 +1,6 @@
 Test Git Quick Start Demo.
 Another text line
 again invalid text line
+Updating a new line for stash example.
 Added @copyright
 Thanks to all very much.
