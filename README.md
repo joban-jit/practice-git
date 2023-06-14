@@ -1,5 +1,5 @@
 # practice-git project
-This is a simple project for showing how to use Git and Github together. Adding another line., then more changes from myfeature branch.
+This is a simple project for showing how to use Git and Github together. Adding another line., then more changes from myfeature branch. Updating for emergency fix after our stash.
 ## Introduction
 This example is to show different parts of the Git repository and various commands using a web project
 ## Purpose
