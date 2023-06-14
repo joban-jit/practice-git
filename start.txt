@@ -1,3 +1,4 @@
+some text
 Test Git Quick Start Demo.
 Another text line
 again invalid text line
